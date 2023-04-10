@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: c9e78e71cfe5dc142991151a40ee9c38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 349
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaba5553c80a7b48bb14de7a1917fa5
+      internalID: 1552724461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 349
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68939dfe8db36cc4c934914c3bf836db
+      internalID: -856016855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 349
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043c97170f64b2459bbdf1839e63047
+      internalID: 1020518328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 349
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd9c0f09f8038e40b15838819baae5c
+      internalID: -2101437327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 265
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad5e899381756447ba9dc7b31f554f6
+      internalID: 1903709980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 265
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d993d854607210468dfb3e6fb7685c2
+      internalID: -297816254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 265
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3673abd0cbef5ec4b8a3598e18e4f5b6
+      internalID: -651564059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 265
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0dcc6ee7b25ed4587551113261904f
+      internalID: 1251073549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 265
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd438f0f72a3347a0dd70718857e0a
+      internalID: -1877785660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 265
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecccab08bdda2e4ab37cf06558e28e1
+      internalID: -1290962758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 265
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e2f5dd5e29c4498ac19a4df1cbff9
+      internalID: -2036651880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 265
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef8a25d81b4134bb72f20fffe8be84
+      internalID: -671440794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 265
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c827390465984f86f147a7ea9aba0
+      internalID: -337517696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 265
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d0690c6d6145e49a66a1526ae660fc
+      internalID: -160658721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 265
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238c47c7ed98e641aa23dd904b7149b
+      internalID: 1050233269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 265
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7919375b7ba42347a54715103b7d7ac
+      internalID: -1347988301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 181
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd726e2697537b4ba2a56b6a6c8e9df
+      internalID: -686375392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 181
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f572df710e39a745a8ffe8ecb3a884f
+      internalID: -601246009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 181
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2532c8e3470674ba66dddb2e01c69c
+      internalID: 746578215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 181
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eb5461c057cff4f9ad26fcb320fa91
+      internalID: -841952914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 181
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbf147129ae92344934dcdd4c31d13d
+      internalID: -1512447831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1863e9ef577542a0ad2e1e211474f
+      internalID: -1878428712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 97
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72976331f0fb129499ab65e75509fc0f
+      internalID: 940882060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 97
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0444521ed07849941a14c84549c2d
+      internalID: -908492266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 97
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77d6d9e2e3ce4b4f86c176c3d852253
+      internalID: 536142784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 97
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba72248c54bf64bb5854c7cf8f8d40
+      internalID: 866777143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 97
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f0a0d92ebdea4597c2f6a72b0fe78
+      internalID: -849799610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 97
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381be16584e375429153ec2fa9135cd
+      internalID: 1483740389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 97
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eb5c996225cd042a8dff2fef3fe867
+      internalID: -1499080241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 97
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2538a015613d610468a548a097c97f28
+      internalID: 1778501243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 97
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80534ab5521b83c4bb196ceb7e474a59
+      internalID: -143840435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 97
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9103e9172f5ffdc4e8da0bd8735c0459
+      internalID: -1226003530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f567872eddf307744a357dbe94306819
+      internalID: 1232981027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 13
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260f957701468a543b4cb35cbc409a58
+      internalID: 498428502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 13
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aaf98c28257bb45b262faa29151b70
+      internalID: -942989261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 13
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db48a96c7a99c4b84c910f15b7e020
+      internalID: -583535959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 13
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27649cb0cf2f1840b828cef607ebfa2
+      internalID: -2031260848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 13
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12ae8b85b27fcf40a7b905bad903801
+      internalID: 161356987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 13
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcb8920cd41d464784e3faaf76829b3
+      internalID: -1988358677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 13
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d44f740cb242c4d92f04dacf741c39
+      internalID: -876900976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 13
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d9bb95388164e4a9fb456a16db2e8a
+      internalID: -111100872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 13
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c1175e4dc673418943187836d43bf
+      internalID: -1150278856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 13
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a25251e725d6848ba11d278e0a7407
+      internalID: 2071963663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingNoEffect-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 13
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383b8ecf2e694f42a34a51c03879a59
+      internalID: 1982494428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VikingNoEffect-Sheet_5: -297816254
+      VikingNoEffect-Sheet_9: -1290962758
+      VikingNoEffect-Sheet_23: -908492266
+      VikingNoEffect-Sheet_25: 866777143
+      VikingNoEffect-Sheet_37: 161356987
+      VikingNoEffect-Sheet_34: -942989261
+      VikingNoEffect-Sheet_38: -1988358677
+      VikingNoEffect-Sheet_1: -856016855
+      VikingNoEffect-Sheet_18: 746578215
+      VikingNoEffect-Sheet_12: -337517696
+      VikingNoEffect-Sheet_26: -849799610
+      VikingNoEffect-Sheet_32: 1232981027
+      VikingNoEffect-Sheet_39: -876900976
+      VikingNoEffect-Sheet_28: -1499080241
+      VikingNoEffect-Sheet_21: -1878428712
+      VikingNoEffect-Sheet_6: -651564059
+      VikingNoEffect-Sheet_33: 498428502
+      VikingNoEffect-Sheet_43: 1982494428
+      VikingNoEffect-Sheet_41: -1150278856
+      VikingNoEffect-Sheet_7: 1251073549
+      VikingNoEffect-Sheet_22: 940882060
+      VikingNoEffect-Sheet_17: -601246009
+      VikingNoEffect-Sheet_36: -2031260848
+      VikingNoEffect-Sheet_4: 1903709980
+      VikingNoEffect-Sheet_19: -841952914
+      VikingNoEffect-Sheet_29: 1778501243
+      VikingNoEffect-Sheet_42: 2071963663
+      VikingNoEffect-Sheet_16: -686375392
+      VikingNoEffect-Sheet_20: -1512447831
+      VikingNoEffect-Sheet_30: -143840435
+      VikingNoEffect-Sheet_8: -1877785660
+      VikingNoEffect-Sheet_35: -583535959
+      VikingNoEffect-Sheet_15: -1347988301
+      VikingNoEffect-Sheet_40: -111100872
+      VikingNoEffect-Sheet_3: -2101437327
+      VikingNoEffect-Sheet_13: -160658721
+      VikingNoEffect-Sheet_24: 536142784
+      VikingNoEffect-Sheet_2: 1020518328
+      VikingNoEffect-Sheet_0: 1552724461
+      VikingNoEffect-Sheet_27: 1483740389
+      VikingNoEffect-Sheet_31: -1226003530
+      VikingNoEffect-Sheet_14: 1050233269
+      VikingNoEffect-Sheet_11: -671440794
+      VikingNoEffect-Sheet_10: -2036651880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
